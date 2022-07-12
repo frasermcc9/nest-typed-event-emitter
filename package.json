@@ -1,6 +1,6 @@
 {
     "name": "nest-typed-event-emitter",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Simple wrapper around the NestJS event-emitter package to provide type hinting",
     "main": "dist/index.js",
     "scripts": {},
