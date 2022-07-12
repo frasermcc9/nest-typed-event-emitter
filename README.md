@@ -1,5 +1,7 @@
 # Nest Typed Event Emitter
 
+![npm](https://img.shields.io/npm/v/nest-typed-event-emitter)
+
 ## Why
 
 The default NestJS event emitter system does not directly support strict hinting
